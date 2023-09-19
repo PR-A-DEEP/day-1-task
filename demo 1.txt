@@ -1,0 +1,4 @@
+ var a = (userInput[0]);
+  var b = (" ");
+  output = a.split("").join (b);
+  console.log(output);
